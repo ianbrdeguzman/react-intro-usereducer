@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-intro-usereducer/static/css/main.fbe76b3d.chunk.css",
+    "main.js": "/react-intro-usereducer/static/js/main.07c26520.chunk.js",
+    "main.js.map": "/react-intro-usereducer/static/js/main.07c26520.chunk.js.map",
+    "runtime-main.js": "/react-intro-usereducer/static/js/runtime-main.756d61bb.js",
+    "runtime-main.js.map": "/react-intro-usereducer/static/js/runtime-main.756d61bb.js.map",
+    "static/js/2.bd732de1.chunk.js": "/react-intro-usereducer/static/js/2.bd732de1.chunk.js",
+    "static/js/2.bd732de1.chunk.js.map": "/react-intro-usereducer/static/js/2.bd732de1.chunk.js.map",
+    "index.html": "/react-intro-usereducer/index.html",
+    "static/css/main.fbe76b3d.chunk.css.map": "/react-intro-usereducer/static/css/main.fbe76b3d.chunk.css.map",
+    "static/js/2.bd732de1.chunk.js.LICENSE.txt": "/react-intro-usereducer/static/js/2.bd732de1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.756d61bb.js",
+    "static/js/2.bd732de1.chunk.js",
+    "static/css/main.fbe76b3d.chunk.css",
+    "static/js/main.07c26520.chunk.js"
+  ]
+}
